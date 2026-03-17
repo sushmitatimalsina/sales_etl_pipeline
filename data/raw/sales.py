@@ -1,0 +1,5 @@
+order_id,customer,amount,city
+1,Sita,1000,Kathmandu
+2,Ram,Pokhara
+3,Gita,2000,Kathmandu
+4,Hari,1500,
